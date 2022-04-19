@@ -4,6 +4,10 @@ Simple Face Texture 'patcher/changer' no need to do it manually for 24 character
 
 **Planned to do a all in one tool to: replace fonts, replace face textures, graphics tweaks and more as long as it doesn't break the TOS.**
 
+**-> Please USE THAT: https://github.com/Sehyn/BDO-Toolbox**
+
+This one will NO longer be updated and support is already dropped!
+
 ## To do :
 
 - [ ] Add check box to have confirmation message when copied succesfully
